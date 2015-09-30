@@ -1,0 +1,7 @@
+C:\Users\mrbea_000\Desktop\ComManagement\UnitTestComManagement\bin\Debug\UnitTestComManagement.dll
+C:\Users\mrbea_000\Desktop\ComManagement\UnitTestComManagement\bin\Debug\UnitTestComManagement.pdb
+C:\Users\mrbea_000\Desktop\ComManagement\UnitTestComManagement\bin\Debug\ComManagement.exe
+C:\Users\mrbea_000\Desktop\ComManagement\UnitTestComManagement\bin\Debug\ComManagement.pdb
+C:\Users\mrbea_000\Desktop\ComManagement\UnitTestComManagement\obj\Debug\UnitTestComManagement.csprojResolveAssemblyReference.cache
+C:\Users\mrbea_000\Desktop\ComManagement\UnitTestComManagement\obj\Debug\UnitTestComManagement.dll
+C:\Users\mrbea_000\Desktop\ComManagement\UnitTestComManagement\obj\Debug\UnitTestComManagement.pdb

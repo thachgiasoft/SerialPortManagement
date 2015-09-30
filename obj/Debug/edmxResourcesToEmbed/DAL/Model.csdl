@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbPorts" EntityType="DBModel.tbPort" />
+    <EntitySet Name="tbServiceRefs" EntityType="DBModel.tbServiceRef" />
+    <EntitySet Name="tbServiceRef_Patients" EntityType="DBModel.tbServiceRef_Patients" />
+    <AssociationSet Name="FK_tbServiceRef_Patients_tbServiceRef" Association="DBModel.FK_tbServiceRef_Patients_tbServiceRef">
+      <End Role="tbServiceRef" EntitySet="tbServiceRefs" />
+      <End Role="tbServiceRef_Patients" EntitySet="tbServiceRef_Patients" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tbPort">
+    <Key>
+      <PropertyRef Name="PortId" />
+    </Key>
+    <Property Name="PortId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PortName" Type="String" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="DataBit" Type="Int32" />
+    <Property Name="BaudRate" Type="Int32" />
+    <Property Name="StopBit" Type="Int32" />
+    <Property Name="Parity" Type="String" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="Dts" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tbServiceRef">
+    <Key>
+      <PropertyRef Name="IDTestName" />
+    </Key>
+    <Property Name="TestId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDTestName" Type="Int32" Nullable="false" />
+    <Property Name="TestName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="tbServiceRef_Patients" Relationship="DBModel.FK_tbServiceRef_Patients_tbServiceRef" FromRole="tbServiceRef" ToRole="tbServiceRef_Patients" />
+  </EntityType>
+  <EntityType Name="tbServiceRef_Patients">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Barcode" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="IDTestName" Type="Int32" />
+    <Property Name="TestValue" Type="Double" />
+    <NavigationProperty Name="tbServiceRef" Relationship="DBModel.FK_tbServiceRef_Patients_tbServiceRef" FromRole="tbServiceRef_Patients" ToRole="tbServiceRef" />
+  </EntityType>
+  <Association Name="FK_tbServiceRef_Patients_tbServiceRef">
+    <End Role="tbServiceRef" Type="DBModel.tbServiceRef" Multiplicity="0..1" />
+    <End Role="tbServiceRef_Patients" Type="DBModel.tbServiceRef_Patients" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbServiceRef">
+        <PropertyRef Name="IDTestName" />
+      </Principal>
+      <Dependent Role="tbServiceRef_Patients">
+        <PropertyRef Name="IDTestName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

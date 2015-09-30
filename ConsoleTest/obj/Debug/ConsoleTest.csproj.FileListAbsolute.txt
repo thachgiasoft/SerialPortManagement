@@ -1,0 +1,8 @@
+C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\bin\Debug\ComManagement.exe
+C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\bin\Debug\ComManagement.pdb
+C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\obj\Debug\ConsoleTest.pdb

@@ -1,0 +1,54 @@
+c:\users\tuansolo\documents\visual studio 2013\Projects\ComManagement\ComManagement\bin\Debug\ComManagement.exe.config
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\ComManagement\ComManagement\bin\Debug\ComManagement.exe
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\ComManagement\ComManagement\bin\Debug\ComManagement.pdb
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\ComManagement\ComManagement\obj\Debug\ComManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\ComManagement\ComManagement\obj\Debug\ComManagement.Properties.Resources.resources
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\ComManagement\ComManagement\obj\Debug\ComManagement.csproj.GenerateResource.Cache
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\ComManagement\ComManagement\obj\Debug\ComManagement.exe
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\ComManagement\ComManagement\obj\Debug\ComManagement.pdb
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\bin\Debug\ComManagement.exe.config
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\bin\Debug\ComManagement.exe
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\bin\Debug\ComManagement.pdb
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\obj\Debug\ComManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\obj\Debug\ComManagement.Form1.resources
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\obj\Debug\ComManagement.Properties.Resources.resources
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\obj\Debug\ComManagement.csproj.GenerateResource.Cache
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\obj\Debug\ComManagement.exe
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\obj\Debug\ComManagement.pdb
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\bin\Debug\ComManagement.exe.config
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\obj\Debug\ComManagement.exe
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\obj\Debug\ComManagement.pdb
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\bin\Debug\ComManagement.exe
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\bin\Debug\ComManagement.pdb
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\obj\Debug\ComManagement.csprojResolveAssemblyReference.cache
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\obj\Debug\ComManagement.Form1.resources
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\obj\Debug\ComManagement.Properties.Resources.resources
+D:\25687e20a41fa40be31a9ec5827a\FL\ComManagement\ComManagement\obj\Debug\ComManagement.csproj.GenerateResource.Cache
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\bin\Debug\EntityFramework.dll
+C:\Users\Tuansolo\Documents\Visual Studio 2013\Projects\file_upload\ComManagement\ComManagement\bin\Debug\EntityFramework.xml
+C:\Users\mrbea_000\Desktop\Com\ComManagement\bin\Debug\ComManagement.exe.config
+C:\Users\mrbea_000\Desktop\Com\ComManagement\bin\Debug\ComManagement.exe
+C:\Users\mrbea_000\Desktop\Com\ComManagement\bin\Debug\ComManagement.pdb
+C:\Users\mrbea_000\Desktop\Com\ComManagement\obj\Debug\ComManagement.Form1.resources
+C:\Users\mrbea_000\Desktop\Com\ComManagement\obj\Debug\ComManagement.Properties.Resources.resources
+C:\Users\mrbea_000\Desktop\Com\ComManagement\obj\Debug\ComManagement.csproj.GenerateResource.Cache
+C:\Users\mrbea_000\Desktop\Com\ComManagement\obj\Debug\ComManagement.exe
+C:\Users\mrbea_000\Desktop\Com\ComManagement\obj\Debug\ComManagement.pdb
+C:\Users\mrbea_000\Desktop\Com\ComManagement\obj\Debug\ComManagement.csprojResolveAssemblyReference.cache
+D:\ComManagement\bin\Debug\ComManagement.exe.config
+D:\ComManagement\obj\Debug\ComManagement.exe
+D:\ComManagement\obj\Debug\ComManagement.pdb
+D:\ComManagement\obj\Debug\ComManagement.Form1.resources
+D:\ComManagement\obj\Debug\ComManagement.Properties.Resources.resources
+D:\ComManagement\obj\Debug\ComManagement.csproj.GenerateResource.Cache
+D:\ComManagement\bin\Debug\ComManagement.exe
+D:\ComManagement\bin\Debug\ComManagement.pdb
+C:\Users\mrbea_000\Desktop\ComManagement\bin\Debug\ComManagement.exe.config
+C:\Users\mrbea_000\Desktop\ComManagement\bin\Debug\ComManagement.exe
+C:\Users\mrbea_000\Desktop\ComManagement\bin\Debug\ComManagement.pdb
+C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.Form1.resources
+C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.Properties.Resources.resources
+C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.csproj.GenerateResource.Cache
+C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.exe
+C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.pdb
+C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.csprojResolveAssemblyReference.cache

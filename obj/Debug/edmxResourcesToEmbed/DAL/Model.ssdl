@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="DBModelStoreContainer">
+    <EntitySet Name="tbPorts" EntityType="DBModel.Store.tbPorts" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tbServiceRef" EntityType="DBModel.Store.tbServiceRef" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tbServiceRef_Patients" EntityType="DBModel.Store.tbServiceRef_Patients" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_tbServiceRef_Patients_tbServiceRef" Association="DBModel.Store.FK_tbServiceRef_Patients_tbServiceRef">
+      <End Role="tbServiceRef" EntitySet="tbServiceRef" />
+      <End Role="tbServiceRef_Patients" EntitySet="tbServiceRef_Patients" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tbPorts">
+    <Key>
+      <PropertyRef Name="PortId" />
+    </Key>
+    <Property Name="PortId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PortName" Type="nchar" MaxLength="20" />
+    <Property Name="DataBit" Type="int" />
+    <Property Name="BaudRate" Type="int" />
+    <Property Name="StopBit" Type="int" />
+    <Property Name="Parity" Type="varchar" MaxLength="30" />
+    <Property Name="Dts" Type="bit" />
+  </EntityType>
+  <EntityType Name="tbServiceRef">
+    <Key>
+      <PropertyRef Name="IDTestName" />
+    </Key>
+    <Property Name="TestId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IDTestName" Type="int" Nullable="false" />
+    <Property Name="TestName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbServiceRef_Patients">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Barcode" Type="varchar" MaxLength="50" />
+    <Property Name="IDTestName" Type="int" />
+    <Property Name="TestValue" Type="float" />
+  </EntityType>
+  <Association Name="FK_tbServiceRef_Patients_tbServiceRef">
+    <End Role="tbServiceRef" Type="DBModel.Store.tbServiceRef" Multiplicity="0..1" />
+    <End Role="tbServiceRef_Patients" Type="DBModel.Store.tbServiceRef_Patients" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbServiceRef">
+        <PropertyRef Name="IDTestName" />
+      </Principal>
+      <Dependent Role="tbServiceRef_Patients">
+        <PropertyRef Name="IDTestName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

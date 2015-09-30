@@ -1,0 +1,988 @@
+﻿
+Log Entry : 8:58:59 PM Wednesday, September 17, 2014
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 8:59:06 PM Wednesday, September 17, 2014
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-20
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Mul
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 1
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Ente
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Ente
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Nega
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Nega
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Nega
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.02
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Nega
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Neg
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Negative,,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Nega
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,Nega
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.020,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 8:59:16 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-20
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-20
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Mul
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Mul
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix 1
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix 1
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10 SG,Not Ente
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10 SG,Not Ente
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,Not Ente
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,Not Ente
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.01
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.01
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH ,6.5,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH ,6.5,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Neg
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Neg
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2 
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2 
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Nega
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :data: 0608,16-09-2014,08:30,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.020,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 8:59:21 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 8:59:51 PM Wednesday, September 17, 2014
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-20
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Mul
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 1
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Ente
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Ente
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Nega
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Nega
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Nega
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.01
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Nega
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Neg
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Negative,,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Negative,,UBG,3.2 
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Negative,,UBG,3.2 umol/L,,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Nega
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,Nega
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.015,,BLD,Negative,,pH ,6.5,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 9:00:15 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-20
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-20
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Mul
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Mul
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix 1
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix 1
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10 SG,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10 SG,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,Not Entered,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,Not Entered,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,Not Ente
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,Not Ente
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Nega
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Nega
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Nega
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Nega
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Nega
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Nega
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,>=1.
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,>=1.
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trac
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trac
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH ,6.
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH ,6.
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,N
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,N
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2 
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2 
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Nega
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Nega
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Lấy thành công dữ liệu:
+0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :data: 0607,15-09-2014,10:36,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.015,,BLD,Negative,,pH,6.5,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,0598,12-09-2014,09:41,240741,,,,,,Multistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,>=1.030,,BLD,Trace-lysed,*,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 9:00:19 PM Wednesday, September 17, 2014
+  :Phân tích thất bại!
+-------------------------------

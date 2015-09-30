@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBModelStoreContainer" CdmEntityContainer="DBEntities">
+    <EntitySetMapping Name="tbPorts">
+      <EntityTypeMapping TypeName="DBModel.tbPort">
+        <MappingFragment StoreEntitySet="tbPorts">
+          <ScalarProperty Name="PortId" ColumnName="PortId" />
+          <ScalarProperty Name="PortName" ColumnName="PortName" />
+          <ScalarProperty Name="DataBit" ColumnName="DataBit" />
+          <ScalarProperty Name="BaudRate" ColumnName="BaudRate" />
+          <ScalarProperty Name="StopBit" ColumnName="StopBit" />
+          <ScalarProperty Name="Parity" ColumnName="Parity" />
+          <ScalarProperty Name="Dts" ColumnName="Dts" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbServiceRefs">
+      <EntityTypeMapping TypeName="DBModel.tbServiceRef">
+        <MappingFragment StoreEntitySet="tbServiceRef">
+          <ScalarProperty Name="TestId" ColumnName="TestId" />
+          <ScalarProperty Name="IDTestName" ColumnName="IDTestName" />
+          <ScalarProperty Name="TestName" ColumnName="TestName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbServiceRef_Patients">
+      <EntityTypeMapping TypeName="DBModel.tbServiceRef_Patients">
+        <MappingFragment StoreEntitySet="tbServiceRef_Patients">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Barcode" ColumnName="Barcode" />
+          <ScalarProperty Name="IDTestName" ColumnName="IDTestName" />
+          <ScalarProperty Name="TestValue" ColumnName="TestValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
