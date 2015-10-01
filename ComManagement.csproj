@@ -66,6 +66,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BO\RocheC311Bo.cs" />
     <Compile Include="BO\RocheE4111Bo.cs" />
     <Compile Include="BO\SiemensBo.cs" />
     <Compile Include="BO\Urisys1100Bo.cs" />
@@ -74,6 +75,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DTO\RocheC311Dto.cs" />
     <Compile Include="DTO\Roche4111Dto.cs" />
     <Compile Include="DTO\SiemensDto.cs" />
     <Compile Include="DTO\AU400Dto.cs" />
@@ -81,7 +83,6 @@
     <Compile Include="DTO\ServiceDto.cs" />
     <Compile Include="DTO\ServiceRefPatientDto.cs" />
     <Compile Include="DTO\Urisys1100Dto.cs" />
-    <Compile Include="Extensions.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="BO\ComHelperBase.cs" />
     <Compile Include="DTO\KX21iDto.cs" />

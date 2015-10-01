@@ -18,7 +18,7 @@ namespace ComManagement.DTO
 
     public class Roche4111DtoResult
     {
-        public int Code { get; set; }
+        public Roche4111Enum Code { get; set; }
         public string Result { get; set; }
         public string Unit { get; set; }
         public string Status { get; set; }
@@ -26,6 +26,7 @@ namespace ComManagement.DTO
     }
     public enum Roche4111Enum
     {
+        Unknow = 0,
         /// <summary>
         /// TSH 0
         /// </summary>

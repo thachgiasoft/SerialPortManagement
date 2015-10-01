@@ -8,16 +8,16 @@ using ComManagement.DTO;
 
 namespace ComManagement.Bo
 {
-    public class RocheE4111Bo : ComHelperBase
+    public class RocheC311Bo : ComHelperBase
     {
         public string _data;
         readonly string eot = ((char)04).ToString();
         readonly string enq = ((char)05).ToString();
-        //readonly string stx = ((char)02).ToString();
-      //  readonly string etx = ((char)03).ToString();
-        readonly string etb = ((char)17).ToString();
+        readonly string stx = ((char)02).ToString();
+        readonly string etx = ((char)03).ToString();
+        readonly string etb = ((char)23).ToString();
         readonly string eof = ((char)13).ToString() + ((char)10);
-        readonly List<Roche4111Dto> _auItems;
+        readonly List<RocheC311Dto> _auItems;
         private bool _flag;
 
 
@@ -32,14 +32,14 @@ namespace ComManagement.Bo
             }
         }
 
-        public RocheE4111Bo(ComPortSetting set)
+        public RocheC311Bo(ComPortSetting set)
             : base(set)
         {
             portInstance.DataReceived += portInstance_DataReceived;
-            _auItems = new List<Roche4111Dto>();
+            _auItems = new List<RocheC311Dto>();
         }
 
-        public List<Roche4111Dto> GetListResult()
+        public List<RocheC311Dto> GetListResult()
         {
             if (_flag)
             {
@@ -99,32 +99,38 @@ namespace ComManagement.Bo
             try
             {
                 _data = Regex.Replace(_data, '\n'.ToString(), "");
+                _data = Regex.Replace(_data, '\t'.ToString(), "");
+                _data = Regex.Replace(_data, '\x0D'.ToString(), "");
+                _data = Regex.Replace(_data, '\x0D'.ToString(), "");
                 _data = Regex.Replace(_data, '\x0D'.ToString(), "");
                 var patients = Regex.Split(_data, @"H\|\\");
                 foreach (var patient in patients)
                 {
                     if (patient.Count() < 100) continue;
-                    var item = new Roche4111Dto();
-                    var blocks = Regex.Split(patient, etb);
+                    var item = new RocheC311Dto();
+                    var blocks = Regex.Split(patient, ((char)17).ToString());
                     foreach (var block in blocks)
                     {
                         if (block.Count() <= 1) continue;
                         var records = Regex.Split(block, @"R\|");
                         foreach (var record in records)
                         {
-                            var frames = record.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
-                            if (record.Contains("^&"))
+                            var temp = Regex.Replace(record, etb + "FA" + stx + "3", "");
+                            var frames = temp.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
+                            int outInt;
+                            if (temp.Contains("^&"))
                             {
-                                item.Name = frames[8] ?? "";
+                                var nameStr = frames[8].Split(new[] { '^' }, StringSplitOptions.RemoveEmptyEntries);
+                                item.Name = nameStr[1] ?? "";
+                                item.TestNo = nameStr[0] ?? "";
                             }
-                            else if (frames[0].Count() == 14)
+                            else if (frames[0] == "N")
                             {
-                                item.OrderTime = frames[0].AsDateTime();
-                                item.TestTime = frames[3].AsDateTime();
+                                item.OrderTime = item.TestTime = frames[5].AsDateTime();
                             }
-                            else if (frames[1].Contains("^"))
+                            else if (frames[1].Contains("^") & int.TryParse(frames[0], out outInt))
                             {
-                                var result = new Roche4111DtoResult
+                                var result = new RocheC311DtoResult
                                 {
                                     Result = frames[2],
                                     Unit = frames[3],
@@ -133,7 +139,7 @@ namespace ComManagement.Bo
                                 };
                                 var str = Regex.Split(frames[1], "/");
                                 var codeStr = str[0].Replace('^', '0');//Regex.Replace(str[0], "^", "");
-                                result.Code = (Roche4111Enum)int.Parse(codeStr);
+                                result.Code = (RocheC311Enum)int.Parse(codeStr);
                                 item.Results.Add(result);
                             }
                         }
@@ -149,13 +155,6 @@ namespace ComManagement.Bo
                 return false;
             }
 
-        }
-    }
-    public static class Extensions
-    {
-        public static DateTime AsDateTime(this string input)
-        {
-            return DateTime.ParseExact(input, "yyyyMMddHHmmss", System.Globalization.CultureInfo.InvariantCulture);
         }
     }
 }
