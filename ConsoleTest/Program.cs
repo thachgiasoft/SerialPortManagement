@@ -1,4 +1,6 @@
-﻿using System.IO.Ports;
+﻿using System;
+using System.IO.Ports;
+using System.Text.RegularExpressions;
 using ComManagement.Bo;
 
 namespace ConsoleTest
@@ -7,6 +9,9 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
+            var rgx = new Regex(@"^[0-9]*$");
+            var check = rgx.IsMatch("1|");
+            Console.WriteLine(check);
             //setting
             var setting = new ComPortSetting
             {

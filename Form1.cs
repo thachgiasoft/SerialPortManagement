@@ -100,8 +100,8 @@ namespace ComManagement
                 {
                     a.TestNo,
                     BenhNhan = a.Name,
-                    TestCode = b.Code,
-                    TestName = b.Code.ToString(),
+                    TestCode = (int)b.Code,
+                    TestName = b.Code,
                     a.TestTime,
                     b.Unit,
                     b.Result,

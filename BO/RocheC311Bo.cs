@@ -108,40 +108,35 @@ namespace ComManagement.Bo
                 {
                     if (patient.Count() < 100) continue;
                     var item = new RocheC311Dto();
-                    var blocks = Regex.Split(patient, ((char)17).ToString());
-                    foreach (var block in blocks)
+                    var records = Regex.Split(patient, @"R\|");
+                    foreach (var record in records)
                     {
-                        if (block.Count() <= 1) continue;
-                        var records = Regex.Split(block, @"R\|");
-                        foreach (var record in records)
+                        var temp = Regex.Replace(record, etb + "FA" + stx + "3", "");
+                        var frames = temp.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
+                        var rgx = new Regex(@"^[0-9]*$");
+                        if (temp.Contains("^&"))
                         {
-                            var temp = Regex.Replace(record, etb + "FA" + stx + "3", "");
-                            var frames = temp.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
-                            int outInt;
-                            if (temp.Contains("^&"))
+                            var nameStr = frames[8].Split(new[] { '^' }, StringSplitOptions.RemoveEmptyEntries);
+                            item.Name = nameStr[1] ?? "";
+                            item.TestNo = nameStr[0] ?? "";
+                        }
+                        else if (frames[0] == "N")
+                        {
+                            item.OrderTime = item.TestTime = frames[5].AsDateTime();
+                        }
+                        else if (frames[1].Contains("^") & rgx.IsMatch(frames[0]))
+                        {
+                            var result = new RocheC311DtoResult
                             {
-                                var nameStr = frames[8].Split(new[] { '^' }, StringSplitOptions.RemoveEmptyEntries);
-                                item.Name = nameStr[1] ?? "";
-                                item.TestNo = nameStr[0] ?? "";
-                            }
-                            else if (frames[0] == "N")
-                            {
-                                item.OrderTime = item.TestTime = frames[5].AsDateTime();
-                            }
-                            else if (frames[1].Contains("^") & int.TryParse(frames[0], out outInt))
-                            {
-                                var result = new RocheC311DtoResult
-                                {
-                                    Result = frames[2],
-                                    Unit = frames[3],
-                                    Flag = frames[4],
-                                    Status = frames[5].Substring(0, 1),
-                                };
-                                var str = Regex.Split(frames[1], "/");
-                                var codeStr = str[0].Replace('^', '0');//Regex.Replace(str[0], "^", "");
-                                result.Code = (RocheC311Enum)int.Parse(codeStr);
-                                item.Results.Add(result);
-                            }
+                                Result = frames[2],
+                                Unit = frames[3],
+                                Flag = frames[4],
+                                Status = frames[5].Substring(0, 1),
+                            };
+                            var str = Regex.Split(frames[1], "/");
+                            var codeStr = str[0].Replace('^', '0');
+                            result.Code = (RocheC311Enum)int.Parse(codeStr);
+                            item.Results.Add(result);
                         }
                     }
                     //add to local list

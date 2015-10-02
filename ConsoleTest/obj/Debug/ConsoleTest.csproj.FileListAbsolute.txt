@@ -6,3 +6,11 @@ C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\bin\Debug\ComManagement.pdb
 C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
 C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\obj\Debug\ConsoleTest.exe
 C:\Users\mrbea_000\Desktop\ComManagement\ConsoleTest\obj\Debug\ConsoleTest.pdb
+D:\Working\Medical\SerialPortManagement\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+D:\Working\Medical\SerialPortManagement\ConsoleTest\bin\Debug\ConsoleTest.exe
+D:\Working\Medical\SerialPortManagement\ConsoleTest\bin\Debug\ConsoleTest.pdb
+D:\Working\Medical\SerialPortManagement\ConsoleTest\bin\Debug\ComManagement.exe
+D:\Working\Medical\SerialPortManagement\ConsoleTest\bin\Debug\ComManagement.pdb
+D:\Working\Medical\SerialPortManagement\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+D:\Working\Medical\SerialPortManagement\ConsoleTest\obj\Debug\ConsoleTest.exe
+D:\Working\Medical\SerialPortManagement\ConsoleTest\obj\Debug\ConsoleTest.pdb
