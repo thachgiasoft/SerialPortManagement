@@ -132,7 +132,9 @@ namespace ComManagement.Bo
                                     Status = frames[5].Substring(0, 1),
                                 };
                                 var str = Regex.Split(frames[1], "/");
-                                var codeStr = str[0].Replace('^', '0');//Regex.Replace(str[0], "^", "");
+                                var codeStr = Regex.Replace(str[0], @"3E2", "") ;//str[0].Replace('^', '0');
+                                codeStr = Regex.Match(codeStr, @"\d+").Value;
+                                //Regex.Replace(str[0], "^", "");
                                 result.Code = (Roche4111Enum)int.Parse(codeStr);
                                 item.Results.Add(result);
                             }
