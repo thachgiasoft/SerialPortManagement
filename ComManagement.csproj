@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BO\RocheC311Bo.cs" />
+    <Compile Include="BO\SysmexXP100Bo.cs" />
     <Compile Include="BO\RocheE4111Bo.cs" />
     <Compile Include="BO\SiemensBo.cs" />
     <Compile Include="BO\Urisys1100Bo.cs" />
@@ -75,6 +76,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DTO\SysmexXP100Dto.cs" />
     <Compile Include="DTO\RocheC311Dto.cs" />
     <Compile Include="DTO\Roche4111Dto.cs" />
     <Compile Include="DTO\SiemensDto.cs" />

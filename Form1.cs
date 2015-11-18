@@ -17,7 +17,7 @@ namespace ComManagement
 
         }
 
-        private RocheC311Bo au;
+        private SysmexXP100Bo au;
         public void ListPortCom()
         {
 
@@ -44,7 +44,7 @@ namespace ComManagement
                     Dtr = chkDtr.Checked
                 };
                 // khai báo và mở cổng 
-                au = new RocheC311Bo(setting);
+                au = new SysmexXP100Bo(setting);
                 au.Open();
                 Log("Mở cổng thành công");
                 btnGet.Enabled = false;
@@ -61,15 +61,6 @@ namespace ComManagement
         {
             var t = au.GetListResult();
             HT(t);
-
-            //var dat = t.SelectMany(a => a.Results, (a, b) => new ServiceRefPatientDto
-            //{
-            //    Barcode = a.Name,
-            //    TestId = b.Code.ToString(),
-            //    TestValue = b.Result
-            //}).ToList();
-            ////DACommon db=new DACommon();
-            ////db.InsertServiceRefPatients(dat);
         }
 
 
@@ -87,8 +78,8 @@ namespace ComManagement
             }
 
         }
-        public delegate void DelHT(List<RocheC311Dto> data);
-        public void HT(List<RocheC311Dto> data)
+        public delegate void DelHT(List<SysmexXP100Dto> data);
+        public void HT(List<SysmexXP100Dto> data)
         {
             if (dataGridView1.InvokeRequired)
             {
@@ -96,18 +87,17 @@ namespace ComManagement
             }
             else
             {
-                dataGridView1.DataSource = data.SelectMany(a => a.Results, (a, b) => a.TestNo != null ? new
+                dataGridView1.DataSource = data.SelectMany(a => a.Results, (a, b) => new
                 {
-                    a.TestNo,
                     BenhNhan = a.Name,
-                    TestCode = (int)b.Code,
+                    TestCode = b.Code,
                     TestName = b.Code,
                     a.TestTime,
                     b.Unit,
                     b.Result,
                     b.Status,
                     b.Flag
-                } : null).ToList();
+                }).ToList();
 
             }
         }
