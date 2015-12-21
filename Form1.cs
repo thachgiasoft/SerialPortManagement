@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.IO.Ports;
 using System.Linq;
 using System.Windows.Forms;
+using ComManagement.BO;
 using ComManagement.Bo;
 using ComManagement.DTO;
+using ComManagement.Dto;
 
 namespace ComManagement
 {
@@ -17,7 +19,7 @@ namespace ComManagement
 
         }
 
-        private SysmexXP100Bo au;
+        private SiemensBo au;
         public void ListPortCom()
         {
 
@@ -44,7 +46,7 @@ namespace ComManagement
                     Dtr = chkDtr.Checked
                 };
                 // khai báo và mở cổng 
-                au = new SysmexXP100Bo(setting);
+                au = new SiemensBo(setting);
                 au.Open();
                 Log("Mở cổng thành công");
                 btnGet.Enabled = false;
@@ -78,8 +80,8 @@ namespace ComManagement
             }
 
         }
-        public delegate void DelHT(List<SysmexXP100Dto> data);
-        public void HT(List<SysmexXP100Dto> data)
+        public delegate void DelHT(List<SiemensDto> data);
+        public void HT(List<SiemensDto> data)
         {
             if (dataGridView1.InvokeRequired)
             {
@@ -87,16 +89,12 @@ namespace ComManagement
             }
             else
             {
-                dataGridView1.DataSource = data.SelectMany(a => a.Results, (a, b) => new
+                dataGridView1.DataSource = data.SelectMany(a => a.Result, (a, b) => new
                 {
-                    BenhNhan = a.Name,
+                    BenhNhan = a.Barcode,
                     TestCode = b.Code,
                     TestName = b.Code,
-                    a.TestTime,
-                    b.Unit,
-                    b.Result,
-                    b.Status,
-                    b.Flag
+                    b.Value
                 }).ToList();
 
             }
