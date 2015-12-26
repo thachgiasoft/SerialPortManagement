@@ -89,6 +89,7 @@ namespace ComManagement.Bo
                     {
                         var pa = GetPatientInfo(slices[i - 1]
                             .TrimEnd(",,,,,,,".ToCharArray()));//lấy thông tin bệnh nhân theo bản ghi trước đó
+                        if (pa == null) continue;
                         exceedString = exceedString.Replace(slices[i - 1], "");
                         Logger.Log("Chuỗi còn lại: " + exceedString);
                         var index = slices[i].IndexOf("GLU");//tìm vị trí của bản ghi glu
@@ -114,85 +115,6 @@ namespace ComManagement.Bo
                 }
                 _data = exceedString;
                 return true;
-                //if (_data.Contains(SeperateRecord))
-                //{
-                //    slices = Regex.Split(_data, "Multistix10SG");//SeperateRecord);
-                //    _auItems.Clear();
-                //    var exceedString = _data;
-
-                //    for (int i = 0; i < slices.Length; i++)
-                //    {
-                //        Logger.Log("Bản ghi thứ " + i);
-                //        if (slices[i].Contains("GLU"))
-                //        {
-                //            var pa = GetPatientInfo(slices[i - 1]
-                //                .TrimEnd(",,,,,,,".ToCharArray()).GetLast(39));//lấy thông tin bệnh nhân theo bản ghi trước đó
-                //            exceedString = exceedString.Replace(slices[i - 1], "");
-                //            Logger.Log("Chuỗi còn lại: " + exceedString);
-                //            var index = slices[i].IndexOf("GLU");//tìm vị trí của bản ghi glu
-                //            var subResult = slices[i].Substring(index, slices[i].Length - index);//xóa đoạn trước
-                //            //nếu không phải bản ghi cuối xóa đoạn sau
-                //            if (i < slices.Length - 1)
-                //            {
-                //                subResult = subResult.Substring(0, subResult.Length - 28);
-                //            }
-                //            subResult = Regex.Replace(subResult, Regex.Escape("*"), "");
-                //            var result = GetResult(ref subResult).ToList();
-                //            if (result.Count == 10)
-                //            {
-                //                _auItems.Add(new SiemensDto
-                //                {
-                //                    Barcode = pa.BarCode,
-                //                    Result = result
-                //                });
-                //                exceedString = subResult;
-                //                Logger.Log("Chuỗi còn lại: " + exceedString);
-                //            }
-                //        }
-                //    }
-                //    _data = exceedString;
-                //    return true;
-                //}
-                //else
-                //{
-                //    slices = Regex.Split(_data, AlterSeperateRecord);
-                //    _auItems.Clear();
-                //    var exceedString = _data;
-
-                //    for (int i = 0; i < slices.Length; i++)
-                //    {
-                //        Logger.Log("Bản ghi thứ " + i);
-                //        if (slices[i].Contains("Multistix"))
-                //        {
-                //            var pa = GetPatientInfo(slices[i - 1].GetLast(39), true);//lấy thông tin bệnh nhân theo bản ghi trước đó
-
-                //            exceedString = exceedString.Replace(slices[i - 1], "");
-                //            Logger.Log("Chuỗi còn lại: " + exceedString);
-                //            var index = slices[i].IndexOf("GLU");//tìm vị trí của bản ghi glu
-                //            var subResult = slices[i].Substring(index, slices[i].Length - index);//xóa đoạn trước
-                //            //nếu không phải bản ghi cuối xóa đoạn sau
-                //            if (i < slices.Length - 1)
-                //            {
-                //                subResult = subResult.Substring(0, subResult.Length - 28);
-                //            }
-                //            subResult = Regex.Replace(subResult, Regex.Escape("*"), "");
-                //            var result = GetResult(ref subResult).ToList();
-                //            if (result.Count == 10)
-                //            {
-                //                _auItems.Add(new SiemensDto
-                //                {
-                //                    Barcode = pa.BarCode,
-                //                    Result = result
-                //                });
-                //                exceedString = subResult;
-                //                Logger.Log("Chuỗi còn lại: " + exceedString);
-                //            }
-                //        }
-                //    }
-                //    _data = exceedString;
-                //    return true;
-                //}
-
             }
             catch (Exception)
             {
@@ -238,7 +160,7 @@ namespace ComManagement.Bo
                 index = i;
                 break;
             }
-
+            if (index == 0) return null;
             switch (temp.Count() - index - 1)
             {
                 case 5:
