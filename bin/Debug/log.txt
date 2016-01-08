@@ -16637,3 +16637,82 @@ Log Entry : 7:22:09 PM Saturday, December 26, 2015
 Log Entry : 7:22:13 PM Saturday, December 26, 2015
   :Phân tích thành công!
 -------------------------------
+
+Log Entry : 3:18:45 PM Friday, January 8, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 3:18:47 PM Friday, January 8, 2016
+  :Lấy thành công dữ liệu:
+0627,01-06-2016,3:21PM,,ELK,BFB,,,FJK,Multistix10SG,NotEntered,NotEntered,E500628,01-06-2016,3:21PM,,ELK,BFB,,,D,Multistix10SGMultistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,7.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 3:18:47 PM Friday, January 8, 2016
+  :data: 0627,01-06-2016,3:21PM,,ELK,BFB,,,FJK,Multistix10SG,NotEntered,NotEntered,E500628,01-06-2016,3:21PM,,ELK,BFB,,,D,Multistix10SGMultistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,7.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 3:19:03 PM Friday, January 8, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 3:19:06 PM Friday, January 8, 2016
+  :Bản ghi thứ 1
+-------------------------------
+
+Log Entry : 3:19:09 PM Friday, January 8, 2016
+  :Bản ghi thứ 2
+-------------------------------
+
+Log Entry : 3:19:11 PM Friday, January 8, 2016
+  :Bản ghi thứ 3
+-------------------------------
+
+Log Entry : 3:20:34 PM Friday, January 8, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 3:20:42 PM Friday, January 8, 2016
+  :Lấy thành công dữ liệu:
+0627,01-06-2016,3:21PM,,ELK,BFB,,,FJK,Multistix10SG,NotEntered,NotEntered,E500628,01-06-2016,3:21PM,,ELK,BFB,,,D,Multistix10SGMultistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,7.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 3:20:42 PM Friday, January 8, 2016
+  :data: 0627,01-06-2016,3:21PM,,ELK,BFB,,,FJK,Multistix10SG,NotEntered,NotEntered,E500628,01-06-2016,3:21PM,,ELK,BFB,,,D,Multistix10SGMultistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,7.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 3:25:54 PM Friday, January 8, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 3:26:41 PM Friday, January 8, 2016
+  :Lấy thành công dữ liệu:
+0627,01-06-2016,3:21PM,,ELK,BFB,,,FJK,Multistix10SG,NotEntered,NotEntered,E500628,01-06-2016,3:21PM,,ELK,BFB,,,D,Multistix10SGMultistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,7.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 3:26:41 PM Friday, January 8, 2016
+  :data: 0627,01-06-2016,3:21PM,,ELK,BFB,,,FJK,Multistix10SG,NotEntered,NotEntered,E500628,01-06-2016,3:21PM,,ELK,BFB,,,D,Multistix10SGMultistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,7.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 3:26:47 PM Friday, January 8, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 3:26:50 PM Friday, January 8, 2016
+  :Bản ghi thứ 1
+-------------------------------
+
+Log Entry : 3:26:50 PM Friday, January 8, 2016
+  :Bản ghi thứ 2
+-------------------------------
+
+Log Entry : 3:27:23 PM Friday, January 8, 2016
+  :Chuỗi còn lại: 0627,01-06-2016,3:21PM,,ELK,BFB,,,FJK,Multistix10SGMultistix10SGMultistix10SG,NotEntered,NotEntered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,7.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 3:27:30 PM Friday, January 8, 2016
+  :Chuỗi còn lại: ,
+-------------------------------
+
+Log Entry : 3:27:30 PM Friday, January 8, 2016
+  :Phân tích thành công!
+-------------------------------

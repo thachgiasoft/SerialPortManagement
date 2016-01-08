@@ -53,11 +53,11 @@ C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.exe
 C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.pdb
 C:\Users\mrbea_000\Desktop\ComManagement\obj\Debug\ComManagement.csprojResolveAssemblyReference.cache
 D:\Working\Medical\SerialPortManagement\bin\Debug\ComManagement.exe.config
-D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.exe
-D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.pdb
 D:\Working\Medical\SerialPortManagement\bin\Debug\ComManagement.exe
 D:\Working\Medical\SerialPortManagement\bin\Debug\ComManagement.pdb
 D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.csprojResolveAssemblyReference.cache
 D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.Form1.resources
 D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.Properties.Resources.resources
 D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.csproj.GenerateResource.Cache
+D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.exe
+D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.pdb

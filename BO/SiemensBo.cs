@@ -72,17 +72,17 @@ namespace ComManagement.Bo
             {
                 Logger.Log("data: " + _data);
                 //_buffer.Clear();
-                string[] slices;
+                List<string> slices;
 
                 _data = Regex.Replace(_data, "\t", "");
                 _data = Regex.Replace(_data, @"\s", "");
                 _data = Regex.Replace(_data, @"\n", "");
                 //cắt theo từng bản ghi
-                slices = Regex.Split(_data, "Multistix10SG");//SeperateRecord);
+                slices = Regex.Split(_data, "Multistix10SG").Where(x => x.Any()).ToList();//SeperateRecord);
                 _auItems.Clear();
                 var exceedString = _data;
 
-                for (int i = 0; i < slices.Length; i++)
+                for (int i = 0; i < slices.Count; i++)
                 {
                     Logger.Log("Bản ghi thứ " + i);
                     if (slices[i].Contains("GLU"))
@@ -95,7 +95,7 @@ namespace ComManagement.Bo
                         var index = slices[i].IndexOf("GLU");//tìm vị trí của bản ghi glu
                         var subResult = slices[i].Substring(index, slices[i].Length - index);//xóa đoạn trước
                         //nếu không phải bản ghi cuối xóa đoạn sau
-                        if (i < slices.Length - 1)
+                        if (i < slices.Count - 1)
                         {
                             subResult = subResult.Substring(0, subResult.Length - 28);
                         }
