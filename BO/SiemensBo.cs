@@ -101,16 +101,13 @@ namespace ComManagement.Bo
                         }
                         subResult = Regex.Replace(subResult, Regex.Escape("*"), "");
                         var result = GetResult(ref subResult).ToList();
-                        if (result.Count == 10)
+                        _auItems.Add(new SiemensDto
                         {
-                            _auItems.Add(new SiemensDto
-                            {
-                                Barcode = pa.BarCode,
-                                Result = result
-                            });
-                            exceedString = subResult;
-                            Logger.Log("Chuỗi còn lại: " + exceedString);
-                        }
+                            Barcode = pa.BarCode,
+                            Result = result
+                        });
+                        exceedString = subResult;
+                        Logger.Log("Chuỗi còn lại: " + exceedString);
                     }
                 }
                 _data = exceedString;
