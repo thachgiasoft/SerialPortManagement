@@ -157,7 +157,14 @@ namespace ComManagement.Bo
     {
         public static DateTime AsDateTime(this string input)
         {
-            return DateTime.ParseExact(input, "yyyyMMddHHmmss", System.Globalization.CultureInfo.InvariantCulture);
+            try
+            {
+                return DateTime.ParseExact(input, "yyyyMMddHHmmss", System.Globalization.CultureInfo.InvariantCulture);
+            }
+            catch (Exception)
+            {
+                return new DateTime();
+            }
         }
     }
 }

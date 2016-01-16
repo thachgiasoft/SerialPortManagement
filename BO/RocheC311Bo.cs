@@ -122,7 +122,14 @@ namespace ComManagement.Bo
                         }
                         else if (frames[0] == "N")
                         {
-                            item.OrderTime = item.TestTime = frames[5].AsDateTime();
+                            var tempString = frames[5];
+                            if (frames[5].Contains(etb))
+                            {
+                                var index = frames[5].IndexOf(etb);
+                                tempString = frames[5].Substring(0, index) +
+                                frames[5].GetLast(14-index);
+                            }
+                            item.OrderTime = item.TestTime = tempString.AsDateTime();
                         }
                         else if (frames[1].Contains("^") & rgx.IsMatch(frames[0]))
                         {
