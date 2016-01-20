@@ -17629,3 +17629,144 @@ Log Entry : 2:12:33 PM Saturday, January 16, 2016
 Log Entry : 2:12:41 PM Saturday, January 16, 2016
   :Phân tích thành công!
 -------------------------------
+
+Log Entry : 10:46:39 AM Wednesday, January 20, 2016
+  :Mở cổng thất bại
+-------------------------------
+
+Log Entry : 10:46:43 AM Wednesday, January 20, 2016
+  :Mở cổng thất bại
+-------------------------------
+
+Log Entry : 10:46:50 AM Wednesday, January 20, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:46:57 AM Wednesday, January 20, 2016
+  :Lấy thành công dữ liệu:
+0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:46:57 AM Wednesday, January 20, 2016
+  :data: 0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:46:59 AM Wednesday, January 20, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 10:46:59 AM Wednesday, January 20, 2016
+  :Bản ghi thứ 1
+-------------------------------
+
+Log Entry : 10:47:00 AM Wednesday, January 20, 2016
+  :Chuỗi còn lại: Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,5.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:47:00 AM Wednesday, January 20, 2016
+  :Chuỗi còn lại: ,,
+-------------------------------
+
+Log Entry : 10:47:01 AM Wednesday, January 20, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:47:17 AM Wednesday, January 20, 2016
+  :Lấy thành công dữ liệu:
+,,0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:47:17 AM Wednesday, January 20, 2016
+  :data: ,,0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:47:26 AM Wednesday, January 20, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 10:47:29 AM Wednesday, January 20, 2016
+  :Bản ghi thứ 1
+-------------------------------
+
+Log Entry : 10:48:08 AM Wednesday, January 20, 2016
+  :Chuỗi còn lại: Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,5.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:48:47 AM Wednesday, January 20, 2016
+  :Chuỗi còn lại: ,,
+-------------------------------
+
+Log Entry : 10:48:49 AM Wednesday, January 20, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:49:10 AM Wednesday, January 20, 2016
+  :Lấy thành công dữ liệu:
+,,0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:49:10 AM Wednesday, January 20, 2016
+  :data: ,,0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:54:58 AM Wednesday, January 20, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 10:55:01 AM Wednesday, January 20, 2016
+  :Bản ghi thứ 1
+-------------------------------
+
+Log Entry : 10:55:02 AM Wednesday, January 20, 2016
+  :Chuỗi còn lại: Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,5.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 10:57:37 AM Wednesday, January 20, 2016
+  :Chuỗi còn lại: ,,
+-------------------------------
+
+Log Entry : 10:57:39 AM Wednesday, January 20, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:59:37 AM Wednesday, January 20, 2016
+  :Mở cổng thất bại
+-------------------------------
+
+Log Entry : 10:59:40 AM Wednesday, January 20, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 11:00:03 AM Wednesday, January 20, 2016
+  :Lấy thành công dữ liệu:
+0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,
+-------------------------------
+
+Log Entry : 11:00:12 AM Wednesday, January 20, 2016
+  :Lấy thành công dữ liệu:
+0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,,,LEU,Negative,
+-------------------------------
+
+Log Entry : 11:00:27 AM Wednesday, January 20, 2016
+  :data: 0768,01-18-2016, 3:07PM,,VINH,VINH,,,VINH,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,5.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,,,LEU,Negative,
+-------------------------------
+
+Log Entry : 11:00:28 AM Wednesday, January 20, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 11:00:28 AM Wednesday, January 20, 2016
+  :Bản ghi thứ 1
+-------------------------------
+
+Log Entry : 11:00:29 AM Wednesday, January 20, 2016
+  :Chuỗi còn lại: Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,5.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,,,LEU,Negative,
+-------------------------------
+
+Log Entry : 11:00:29 AM Wednesday, January 20, 2016
+  :Chuỗi còn lại: GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,5.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,,,LEU,Negative,
+-------------------------------
+
+Log Entry : 11:00:30 AM Wednesday, January 20, 2016
+  :Phân tích thành công!
+-------------------------------

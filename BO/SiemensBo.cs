@@ -53,7 +53,7 @@ namespace ComManagement.Bo
                 // Display the text to the user in the tmpinal
                 _data += data;
                 Logger.Log("Lấy thành công dữ liệu:\n" + _data);
-                if (_data.Length > 180)
+                if (_data.Length > 180 & data.Contains("LEU"))
                 {
                     Logger.Log(ParsingData() ? "Phân tích thành công!" : "Phân tích thất bại!");
                     _flag = true;
