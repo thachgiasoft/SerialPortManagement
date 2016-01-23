@@ -17770,3 +17770,210 @@ Log Entry : 11:00:29 AM Wednesday, January 20, 2016
 Log Entry : 11:00:30 AM Wednesday, January 20, 2016
   :Phân tích thành công!
 -------------------------------
+
+Log Entry : 3:57:02 PM Saturday, January 23, 2016
+  :{"PortName":"COM1","BaudRate":9600,"DataBits":8,"StopBits":1,"Parity":0,"Rts":false,"Dtr":false,"ReadTimeout":1000}
+-------------------------------
+
+Log Entry : 3:57:02 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 4:00:13 PM Saturday, January 23, 2016
+  :{"PortName":"COM1","BaudRate":9600,"DataBits":8,"StopBits":1,"Parity":0,"Rts":false,"Dtr":false,"ReadTimeout":1000}
+-------------------------------
+
+Log Entry : 4:00:13 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 4:01:02 PM Saturday, January 23, 2016
+  :{"PortName":"COM1","BaudRate":9600,"DataBits":8,"StopBits":1,"Parity":0,"Rts":false,"Dtr":false,"ReadTimeout":1000}
+-------------------------------
+
+Log Entry : 4:01:02 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 4:09:20 PM Saturday, January 23, 2016
+  :Mở cổng thất bại
+-------------------------------
+
+Log Entry : 4:10:17 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:25:49 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:27:42 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:29:56 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:30:10 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:31:56 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:32:03 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:32:58 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:33:40 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:34:03 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:34:21 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:34:44 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:34:58 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:35:10 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:35:32 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:35:42 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:35:58 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:36:42 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:36:55 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:37:03 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:37:12 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,egative,
+-------------------------------
+
+Log Entry : 7:37:24 PM Saturday, January 23, 2016
+  :data: Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,egative,
+-------------------------------
+
+Log Entry : 7:37:25 PM Saturday, January 23, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 7:37:26 PM Saturday, January 23, 2016
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 7:38:02 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:38:10 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+egative,
+-------------------------------
+
+Log Entry : 7:38:26 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:38:36 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:39:10 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:39:15 PM Saturday, January 23, 2016
+  :data: Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:39:30 PM Saturday, January 23, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 7:40:17 PM Saturday, January 23, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 7:40:22 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+0811,01-23-2016,11:13AM,,HUNG,HUNG,,,HUNG,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,N
+-------------------------------
+
+Log Entry : 7:40:28 PM Saturday, January 23, 2016
+  :Lấy thành công dữ liệu:
+0811,01-23-2016,11:13AM,,HUNG,HUNG,,,HUNG,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:40:30 PM Saturday, January 23, 2016
+  :data: 0811,01-23-2016,11:13AM,,HUNG,HUNG,,,HUNG,Multistix 10 SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,1.010,,BLD,Negative,,pH ,6.0,,PRO,Negative,,UBG,3.2 umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:40:30 PM Saturday, January 23, 2016
+  :Bản ghi thứ 0
+-------------------------------
+
+Log Entry : 7:40:30 PM Saturday, January 23, 2016
+  :Bản ghi thứ 1
+-------------------------------
+
+Log Entry : 7:40:30 PM Saturday, January 23, 2016
+  :Chuỗi còn lại: Multistix10SG,Yellow,Clear,GLU,Negative,,BIL,Negative,,KET,Negative,,SG,1.010,,BLD,Negative,,pH,6.0,,PRO,Negative,,UBG,3.2umol/L,,NIT,Negative,,LEU,Negative,
+-------------------------------
+
+Log Entry : 7:40:30 PM Saturday, January 23, 2016
+  :Chuỗi còn lại: ,
+-------------------------------
+
+Log Entry : 7:40:30 PM Saturday, January 23, 2016
+  :Phân tích thành công!
+-------------------------------

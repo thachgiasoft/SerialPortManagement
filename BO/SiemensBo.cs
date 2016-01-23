@@ -45,6 +45,7 @@ namespace ComManagement.Bo
             return null;
         }
 
+        private bool _isFinish = false;
         private void portInstance_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
             try
@@ -53,9 +54,21 @@ namespace ComManagement.Bo
                 // Display the text to the user in the tmpinal
                 _data += data;
                 Logger.Log("Lấy thành công dữ liệu:\n" + _data);
-                if (_data.Length > 180 & data.Contains("LEU"))
+                if (_data.Contains("LEU,"))
+                {
+                    var reverseStr = _data.ReverseString();
+                    var leuIndex = reverseStr.IndexOf(",UEL");
+                    var subStrs = reverseStr
+                        .Substring(0, leuIndex)
+                        .ReverseString();
+                    var cnt = subStrs.Count(x => x == ',');
+                    if (cnt > 0)
+                        _isFinish = true;
+                }
+                if (_isFinish)
                 {
                     Logger.Log(ParsingData() ? "Phân tích thành công!" : "Phân tích thất bại!");
+                    _isFinish = false;
                     _flag = true;
                     OnReceiveDataComplelted(true);
                 }
@@ -213,6 +226,15 @@ namespace ComManagement.Bo
             if (tail_length >= source.Length)
                 return source;
             return source.Substring(source.Length - tail_length);
+        }
+        /// <summary>
+        /// Receives string and returns the string with its letters reversed.
+        /// </summary>
+        public static string ReverseString(this string s)
+        {
+            var arr = s.ToCharArray();
+            Array.Reverse(arr);
+            return new string(arr);
         }
     }
 
