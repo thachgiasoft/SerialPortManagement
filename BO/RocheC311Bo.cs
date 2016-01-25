@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Drawing.Text;
 using System.IO.Ports;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -103,6 +104,7 @@ namespace ComManagement.Bo
                 _data = Regex.Replace(_data, '\x0D'.ToString(), "");
                 _data = Regex.Replace(_data, '\x0D'.ToString(), "");
                 _data = Regex.Replace(_data, '\x0D'.ToString(), "");
+                _data = StandardizeC311Result(_data);
                 var patients = Regex.Split(_data, @"H\|\\");
                 foreach (var patient in patients)
                 {
@@ -111,10 +113,10 @@ namespace ComManagement.Bo
                     var records = Regex.Split(patient, @"R\|");
                     foreach (var record in records)
                     {
-                        var temp = Regex.Replace(record, etb + "FA" + stx + "3", "");
-                        var frames = temp.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
+                       // var temp = Regex.Replace(record, etb + "FA" + stx + "3", "");
+                        var frames = record.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
                         var rgx = new Regex(@"^[0-9]*$");
-                        if (temp.Contains("^&"))
+                        if (record.Contains("^&"))
                         {
                             var nameStr = frames[8].Split(new[] { '^' }, StringSplitOptions.RemoveEmptyEntries);
                             item.Name = nameStr[1] ?? "";
@@ -127,7 +129,7 @@ namespace ComManagement.Bo
                             {
                                 var index = frames[5].IndexOf(etb);
                                 tempString = frames[5].Substring(0, index) +
-                                frames[5].GetLast(14-index);
+                                frames[5].GetLast(14 - index);
                             }
                             item.OrderTime = item.TestTime = tempString.AsDateTime();
                         }
@@ -156,7 +158,24 @@ namespace ComManagement.Bo
 
                 return false;
             }
+        }
 
+        private string StandardizeC311Result(string input)
+        {
+            if (input.Contains(etb))
+            {
+                while (input.Contains(etb))
+                {
+                    var index = input.IndexOf(etb);
+                    var sub1 = input.Substring(0, index);
+                    var sub2 = input.Substring(index + 1, input.Length - index - 1);
+                    index = sub2.IndexOf(stx);
+                    var sub3 = sub2.Substring(index + 1, sub2.Length - index - 1);
+                    input = sub1 + sub3;
+                }
+
+            }
+            return input;
         }
     }
 }
