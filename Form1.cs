@@ -18,7 +18,7 @@ namespace ComManagement
             ListPortCom();
         }
 
-        private Au400Bo au;
+        private Urisys1100Bo au;
         public void ListPortCom()
         {
 
@@ -45,7 +45,7 @@ namespace ComManagement
                     Dtr = chkDtr.Checked
                 };
                 // khai báo và mở cổng 
-                au = new Au400Bo(setting, true);
+                au = new Urisys1100Bo(setting);
                 au.Open();
                 Log("Mở cổng thành công");
                 btnGet.Enabled = false;
@@ -79,8 +79,8 @@ namespace ComManagement
             }
 
         }
-        public delegate void DelHT(List<AU400Dto> data);
-        public void HT(List<AU400Dto> data)
+        public delegate void DelHT(List<Urisys1100Dto> data);
+        public void HT(List<Urisys1100Dto> data)
         {
             if (dataGridView1.InvokeRequired)
             {
@@ -91,7 +91,6 @@ namespace ComManagement
                 dataGridView1.DataSource = data.SelectMany(a => a.Result, (a, b) => new
                 {
                     a.Barcode,
-                    a.Name,
                     b.Code,
                     b.Value,
                 }).ToList();

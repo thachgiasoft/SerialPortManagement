@@ -116,10 +116,10 @@ namespace ComManagement.BO
                 if (input[i].Count()<4)
                     break;
                 var temp = input[i].TrimStart();
-                tmp = Regex.Split(temp, " ");
+                tmp = temp.Split(" ".ToCharArray(),StringSplitOptions.RemoveEmptyEntries);
                 info.Result.Add(new Urisys1100ItemDto
                 {
-                    Code = tmp[0],
+                    Code = tmp[0].Contains("*")?tmp[1]:tmp[0],
                     Value = tmp[tmp.Length - 1]
                 });
             }

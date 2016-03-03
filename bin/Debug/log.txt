@@ -18501,3 +18501,203 @@ Log Entry : 10:36:40 PM Thursday, March 3, 2016
 Log Entry : 10:36:40 PM Thursday, March 3, 2016
   :Phân tích thành công!
 -------------------------------
+
+Log Entry : 10:42:56 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:43:41 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:43:58 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+URISYS1100  URINALYSIS 
+Dev. ID:    12468      
+Op.ID:             (OFF)
+22.02.2016         08:09
+Seq.No:    2           
+Pat.ID:                
+                        
+  SG   1.030           
+  pH       5           
+  LEU    neg           
+* NIT    pos           
+  PRO    neg           
+  GLU   norm           
+  KET    neg           
+  UBG   norm           
+  BIL    neg           
+  ERY    neg           
+........................
+-------------------------------
+
+Log Entry : 10:43:58 PM Thursday, March 3, 2016
+  :data: URISYS1100  URINALYSIS 
+Dev. ID:    12468      
+Op.ID:             (OFF)
+22.02.2016         08:09
+Seq.No:    2           
+Pat.ID:                
+                        
+  SG   1.030           
+  pH       5           
+  LEU    neg           
+* NIT    pos           
+  PRO    neg           
+  GLU   norm           
+  KET    neg           
+  UBG   norm           
+  BIL    neg           
+  ERY    neg           
+........................
+-------------------------------
+
+Log Entry : 10:45:31 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:45:34 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+URISYS1100  URINALYSIS 
+Dev. ID:    12468      
+Op.ID:             (OFF)
+22.02.2016         08:09
+Seq.No:    2           
+Pat.ID:                
+                        
+  SG   1.030           
+  pH       5           
+  LEU    neg           
+* NIT    pos           
+  PRO    neg           
+  GLU   norm           
+  KET    neg           
+  UBG   norm           
+  BIL    neg           
+  ERY    neg           
+........................
+-------------------------------
+
+Log Entry : 10:45:34 PM Thursday, March 3, 2016
+  :data: URISYS1100  URINALYSIS 
+Dev. ID:    12468      
+Op.ID:             (OFF)
+22.02.2016         08:09
+Seq.No:    2           
+Pat.ID:                
+                        
+  SG   1.030           
+  pH       5           
+  LEU    neg           
+* NIT    pos           
+  PRO    neg           
+  GLU   norm           
+  KET    neg           
+  UBG   norm           
+  BIL    neg           
+  ERY    neg           
+........................
+-------------------------------
+
+Log Entry : 10:46:20 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:46:23 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+URISYS1100  URINALYSIS 
+Dev. ID:    12468      
+Op.ID:             (OFF)
+22.02.2016         08:09
+Seq.No:    2           
+Pat.ID:                
+                        
+  SG   1.030           
+  pH       5           
+  LEU    neg           
+* NIT    pos           
+  PRO    neg           
+  GLU   norm           
+  KET    neg           
+  UBG   norm           
+  BIL    neg           
+  ERY    neg           
+........................
+-------------------------------
+
+Log Entry : 10:46:23 PM Thursday, March 3, 2016
+  :data: URISYS1100  URINALYSIS 
+Dev. ID:    12468      
+Op.ID:             (OFF)
+22.02.2016         08:09
+Seq.No:    2           
+Pat.ID:                
+                        
+  SG   1.030           
+  pH       5           
+  LEU    neg           
+* NIT    pos           
+  PRO    neg           
+  GLU   norm           
+  KET    neg           
+  UBG   norm           
+  BIL    neg           
+  ERY    neg           
+........................
+-------------------------------
+
+Log Entry : 10:47:13 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:49:03 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:49:06 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+URISYS1100  URINALYSIS 
+Dev. ID:    12468      
+Op.ID:             (OFF)
+22.02.2016         08:09
+Seq.No:    2           
+Pat.ID:                
+                        
+  SG   1.030           
+  pH       5           
+  LEU    neg           
+* NIT    pos           
+  PRO    neg           
+  GLU   norm           
+  KET    neg           
+  UBG   norm           
+  BIL    neg           
+  ERY    neg           
+........................
+-------------------------------
+
+Log Entry : 10:49:06 PM Thursday, March 3, 2016
+  :data: URISYS1100  URINALYSIS 
+Dev. ID:    12468      
+Op.ID:             (OFF)
+22.02.2016         08:09
+Seq.No:    2           
+Pat.ID:                
+                        
+  SG   1.030           
+  pH       5           
+  LEU    neg           
+* NIT    pos           
+  PRO    neg           
+  GLU   norm           
+  KET    neg           
+  UBG   norm           
+  BIL    neg           
+  ERY    neg           
+........................
+-------------------------------
+
+Log Entry : 10:49:31 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
