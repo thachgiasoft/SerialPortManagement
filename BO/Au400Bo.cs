@@ -10,11 +10,14 @@ namespace ComManagement.Bo
 {
     public class Au400Bo : ComHelperBase
     {
+        private readonly bool _isContinueTransfer = false;
         string _data;
         private const string EndResult = "r";
         const string StartRecord = "\x02" + "D";
         const string StartResult = "E0";
         readonly List<AU400Dto> _auItems;
+        readonly string stx = ((char)02).ToString();
+        readonly string etx = ((char)03).ToString();
         private bool _flag;
 
         public event EventHandler ReceiveDataComplelted;
@@ -33,7 +36,13 @@ namespace ComManagement.Bo
             portInstance.DataReceived += portInstance_DataReceived;
             _auItems = new List<AU400Dto>();
         }
-
+        public Au400Bo(ComPortSetting set, bool isContinueTransfer)
+            : base(set)
+        {
+            _isContinueTransfer = isContinueTransfer;
+            portInstance.DataReceived += portInstance_DataReceived;
+            _auItems = new List<AU400Dto>();
+        }
         public List<AU400Dto> GetListResult()
         {
             if (_flag)
@@ -50,6 +59,7 @@ namespace ComManagement.Bo
                 string data = portInstance.ReadExisting();
                 // Display the text to the user in the tmpinal
                 _data += data;
+                var index = _data.LastIndexOf(etx + etx + stx + stx + "D", StringComparison.Ordinal);
                 if (data.IndexOf("DE", StringComparison.Ordinal) != -1)
                 {
                     Logger.Log("Lấy thành công dữ liệu:\n" + _data);
@@ -57,6 +67,15 @@ namespace ComManagement.Bo
                     _flag = true;
                     OnReceiveDataComplelted(true);
                     _data = "";
+                }
+                else if (index != -1
+                    & _isContinueTransfer)
+                {
+                    Logger.Log("Lấy thành công dữ liệu:\n" + _data);
+                    Logger.Log(ParsingData() ? "Phân tích thành công!" : "Phân tích thất bại!");
+                    _flag = true;
+                    OnReceiveDataComplelted(true);
+                    _data = _data.Substring(index + 5);
                 }
             }
             catch (Exception ex)
@@ -94,6 +113,7 @@ namespace ComManagement.Bo
                         _auItems.Add(new AU400Dto
                         {
                             Barcode = pa.BarCode,
+                            Name = pa.Name,
                             Result = result,
                             IsIndicateError = isError
                         });
@@ -104,6 +124,7 @@ namespace ComManagement.Bo
                         _auItems.Add(new AU400Dto
                         {
                             Barcode = pa.BarCode,
+                            Name = pa.Name,
                             Result = result,
                             IsIndicateError = isError
                         });

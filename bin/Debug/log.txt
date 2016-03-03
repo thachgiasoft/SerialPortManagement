@@ -18125,3 +18125,379 @@ Log Entry : 2:27:55 PM Monday, January 25, 2016
 Log Entry : 2:28:00 PM Monday, January 25, 2016
   :Phân tích thành công!
 -------------------------------
+
+Log Entry : 2:30:47 PM Monday, January 25, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 2:30:50 PM Monday, January 25, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||c311^1|||||host|RSUPL^BATCH|P|1
+P|1
+O|1|882^le 46                 ^1^^017|R1|^^^798/\^^^717/\^^^687/\^^^685/\^^^435/\^^^59/\^^^781/|R||||||N||^^||SC|||bmserv|                              ^                         ^                 A5
+2   ^               ^          |||20160125080953|||F
+R|1|^^^798/|5.56|mmol/l||N||F|||||P1
+C|1|I|0|I
+R|2|^^^717/|5.56|mmol/l||N||F|||||P1
+C|1|I|0|I
+R|3|^^^687/|13.5|U/l||N||F|||||P1
+C|1|I|0|I
+R|4|^^^685/|14.3|U/l||N||F|||||P1
+C|1|I|0|I
+R|5|^^B7
+3^435/|1.13|mmol/l||H||F|||||P1
+C|1|I|0|I
+R|6|^^^59/|4.06|mmol/l||H||F|||||P1
+C|1|I|0|I
+R|7|^^^781/|1.96|mmol/l||H||F|||||P1
+C|1|I|0|I
+L|1|N
+02
+
+-------------------------------
+
+Log Entry : 2:30:50 PM Monday, January 25, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 2:30:54 PM Monday, January 25, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 2:31:16 PM Monday, January 25, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||c311^1|||||host|RSUPL^BATCH|P|1
+P|1
+O|1|882^le 46                 ^1^^017|R1|^^^798/\^^^717/\^^^687/\^^^685/\^^^435/\^^^59/\^^^781/|R||||||N||^^||SC|||bmserv|                              ^                         ^                 A5
+2   ^               ^          |||20160125080953|||F
+R|1|^^^798/|5.56|mmol/l||N||F|||||P1
+C|1|I|0|I
+R|2|^^^717/|5.56|mmol/l||N||F|||||P1
+C|1|I|0|I
+R|3|^^^687/|13.5|U/l||N||F|||||P1
+C|1|I|0|I
+R|4|^^^685/|14.3|U/l||N||F|||||P1
+C|1|I|0|I
+R|5|^^B7
+3^435/|1.13|mmol/l||H||F|||||P1
+C|1|I|0|I
+R|6|^^^59/|4.06|mmol/l||H||F|||||P1
+C|1|I|0|I
+R|7|^^^781/|1.96|mmol/l||H||F|||||P1
+C|1|I|0|I
+L|1|N
+02
+
+-------------------------------
+
+Log Entry : 2:31:16 PM Monday, January 25, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 2:31:16 PM Monday, January 25, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 2:31:54 PM Monday, January 25, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 2:31:58 PM Monday, January 25, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||c311^1|||||host|RSUPL^BATCH|P|1
+P|1
+O|1|881^binh 48               ^1^^016|R1|^^^798/\^^^717/\^^^687/\^^^685/\^^^435/\^^^59/\^^^781/|R||||||N||^^||SC|||bmserv|                              ^                         ^                 35
+2   ^               ^          |||20160125080941|||F
+R|1|^^^798/|4.92|mmol/l||N||F|||||P1
+C|1|I|0|I
+R|2|^^^717/|6.32|mmol/l||H||F|||||P1
+C|1|I|0|I
+R|3|^^^687/|18.2|U/l||N||F|||||P1
+C|1|I|0|I
+R|4|^^^685/|34.7|U/l||H||F|||||P1
+C|1|I|0|I
+R|5|^^AA
+3^435/|0.63|mmol/l||N||F|||||P1
+C|1|I|0|I
+R|6|^^^59/|3.68|mmol/l||H||F|||||P1
+C|1|I|0|I
+R|7|^^^781/|3.59|mmol/l||H||F|||||P1
+C|1|I|0|I
+L|1|N
+14
+
+-------------------------------
+
+Log Entry : 2:31:58 PM Monday, January 25, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 2:31:58 PM Monday, January 25, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 2:32:24 PM Monday, January 25, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||c311^1|||||host|TSREQ^REAL|P|1
+P|1
+Q|1|^^884/quy 68                /1//019/R1/R||||||||||O
+L|1|N
+9F
+
+-------------------------------
+
+Log Entry : 2:32:24 PM Monday, January 25, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 2:32:24 PM Monday, January 25, 2016
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 2:33:23 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 2:34:29 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              THAO 3    E0                                             01    32  02     8  20   185P D 003001 0009        MAI T THU 59    E0                                             84  5.50uPD 002401 0010        HUNG VIET 47    E0                                             05   110P 12   5.2  D 002201 0011 HOANG T THUY NGA 46    E0                                             01    19  02    20  05    75  06  5.97P 09  5.92  10  2.02P 12   4.6  22  1.62  71  3.43P D 002901 0012 MINH NGAN 27 SAU 1H    E0                                             09  6.56  DE
+-------------------------------
+
+Log Entry : 2:34:29 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 2:35:59 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              THAO 3    E0                                             01    32  02     8  20   185P D 003001 0009        MAI T THU 59    E0                                             84  5.50uPD 002401 0010        HUNG VIET 47    E0                                             05   110P 12   5.2  D 002201 0011 HOANG T THUY NGA 46    E0                                             01    19  02    20  05    75  06  5.97P 09  5.92  10  2.02P 12   4.6  22  1.62  71  3.43P D 002901 0012 MINH NGAN 27 SAU 1H    E0                                             09  6.56  DE
+-------------------------------
+
+Log Entry : 2:35:59 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 4:58:42 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 4:59:51 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 4:59:58 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              
+-------------------------------
+
+Log Entry : 5:00:18 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 5:01:06 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002101 0008              THAO 3    E0                                             01    32  02     8  20   185P D 003001 0009        MAI T THU 59    E0
+-------------------------------
+
+Log Entry : 5:01:11 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 5:02:14 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 02     8  20   185P D 003001 0009        MAI T THU 59    E0                                             84  5.50uPD 002401 0010        HUNG VIET 47    E0
+-------------------------------
+
+Log Entry : 5:02:14 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 5:03:22 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+  E0                                             84  5.50uPD 002401 0010        HUNG VIET 47    E0                                             05   110P 12   5.2  D 002201 0011 HOANG T THUY NGA 46    E0                                             01    19  02    20  05    75  06  5.97P 09  5.92  10  2.02P 12   4.6  22  1.62  71  3.43P D 002901 0012 MINH NGAN 27 SAU 1H    E0                                             09  6.56  DE
+-------------------------------
+
+Log Entry : 5:03:22 PM Thursday, March 3, 2016
+  :Phân tích thất bại!
+-------------------------------
+
+Log Entry : 10:22:15 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:22:28 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              THAO 3
+-------------------------------
+
+Log Entry : 10:22:29 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:22:54 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:23:02 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              THAO 3
+-------------------------------
+
+Log Entry : 10:23:02 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:23:34 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002101 0008              THAO 3E0                                             01    32  02     8  20   185P D 003001 0009        MAI T THU 59    E
+-------------------------------
+
+Log Entry : 10:23:35 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:24:43 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:24:57 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              THAO 3
+-------------------------------
+
+Log Entry : 10:24:57 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:25:13 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002101 0008              THAO 3E0                                             01    32  02     8  20   185P D 003001 0009        MAI T THU 59    E
+-------------------------------
+
+Log Entry : 10:25:13 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:26:11 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 003001 0009        MAI T THU 59    E0                                             84  5.50uPD 002401 0010        HUNG VIET 47    E0                                             05   110P 12   5.2  D 002201 0011 HOANG T THUY NGA 46    E0
+-------------------------------
+
+Log Entry : 10:26:11 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:29:16 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:29:26 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              THAO 3
+-------------------------------
+
+Log Entry : 10:29:26 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:30:14 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002101 0008              THAO 3E0                                             01    32  02     8  20   185P D 003001 0009        MAI T THU 59    E
+-------------------------------
+
+Log Entry : 10:31:17 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:31:53 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 003001 0009        MAI T THU 59    E0                                             84  5.50uPD 002401 0010        HUNG VIET 47    E0                                             05   110P 12   5.2  D 002201 0011 HOANG T THUY NGA 46
+-------------------------------
+
+Log Entry : 10:32:35 PM Thursday, March 3, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 10:32:46 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              THAO 3
+-------------------------------
+
+Log Entry : 10:32:50 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:33:07 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002101 0008              THAO 3E0                                             01    32  02     8  20   185P D 003001 0009        MAI T THU 59    E
+-------------------------------
+
+Log Entry : 10:33:07 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:33:31 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 003001 0009        MAI T THU 59    E0                                             84  5.50uPD 002401 0010        HUNG VIET 47    E0                                             05   110P 12   5.2  D 002201 0011 HOANG T THUY NGA 46
+-------------------------------
+
+Log Entry : 10:33:31 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:34:48 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002201 0011 HOANG T THUY NGA 46    E0                                             01    19  02    20  05    75  06  5.97P 09  5.92  10  2.02P 12   4.6  22  1.62  71  3.43P D 002901 0012 MINH NGAN 27 SAU 1H    E0
+-------------------------------
+
+Log Entry : 10:34:48 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:35:20 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002901 0012 MINH NGAN 27 SAU 1H    E0                                             09  6.56  DE
+-------------------------------
+
+Log Entry : 10:35:20 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:35:37 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+D 003001 0007          M T THU 59    E0                                             01    20  02    15  05    77  06  9.77P 08  32.8  09  4.83  10  8.18P 11   367  12   4.7  22  1.38  71  4.67P D 002101 0008              THAO 3
+-------------------------------
+
+Log Entry : 10:35:37 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:36:15 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002101 0008              THAO 3E0                                             01    32  02     8  20   185P D 003001 0009        MAI T THU 59    E
+-------------------------------
+
+Log Entry : 10:36:15 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:36:28 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 003001 0009        MAI T THU 59    E0                                             84  5.50uPD 002401 0010        HUNG VIET 47    E0
+-------------------------------
+
+Log Entry : 10:36:28 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 10:36:40 PM Thursday, March 3, 2016
+  :Lấy thành công dữ liệu:
+ 002401 0010        HUNG VIET 47    E0                                             05   110P 12   5.2  D 002201 0011 HOANG T THUY NGA 46    E0                                             01    19  02    20  05    75  06  5.97P 09  5.92  10  2.02P 12   4.6  22  1.62  71  3.43P D 002901 0012 MINH NGAN 27 SAU 1H    E0                                             09  6.56  DE
+-------------------------------
+
+Log Entry : 10:36:40 PM Thursday, March 3, 2016
+  :Phân tích thành công!
+-------------------------------

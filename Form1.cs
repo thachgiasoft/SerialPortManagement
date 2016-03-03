@@ -16,10 +16,9 @@ namespace ComManagement
         {
             InitializeComponent();
             ListPortCom();
-
         }
 
-        private RocheC311Bo au;
+        private Au400Bo au;
         public void ListPortCom()
         {
 
@@ -46,7 +45,7 @@ namespace ComManagement
                     Dtr = chkDtr.Checked
                 };
                 // khai báo và mở cổng 
-                au = new RocheC311Bo(setting);
+                au = new Au400Bo(setting, true);
                 au.Open();
                 Log("Mở cổng thành công");
                 btnGet.Enabled = false;
@@ -80,8 +79,8 @@ namespace ComManagement
             }
 
         }
-        public delegate void DelHT(List<RocheC311Dto> data);
-        public void HT(List<RocheC311Dto> data)
+        public delegate void DelHT(List<AU400Dto> data);
+        public void HT(List<AU400Dto> data)
         {
             if (dataGridView1.InvokeRequired)
             {
@@ -89,11 +88,12 @@ namespace ComManagement
             }
             else
             {
-                dataGridView1.DataSource = data.SelectMany(a => a.Results, (a, b) => new
+                dataGridView1.DataSource = data.SelectMany(a => a.Result, (a, b) => new
                 {
                     a.Barcode,
-                   // b.Code,
-                    b.Result,
+                    a.Name,
+                    b.Code,
+                    b.Value,
                 }).ToList();
 
             }
