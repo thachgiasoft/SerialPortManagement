@@ -59,7 +59,7 @@ namespace ComManagement.Bo
                 string data = portInstance.ReadExisting();
                 // Display the text to the user in the tmpinal
                 _data += data;
-                var index = _data.LastIndexOf(etx + etx + stx + stx + "D", StringComparison.Ordinal);
+                var index = _data.LastIndexOf(etx + etx, StringComparison.Ordinal);
                 if (data.IndexOf("DE", StringComparison.Ordinal) != -1)
                 {
                     Logger.Log("Lấy thành công dữ liệu:\n" + _data);
