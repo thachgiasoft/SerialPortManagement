@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.IO.Ports;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -55,8 +56,8 @@ namespace ComManagement.BO
                 _data += data;
                 if (_data.Contains(IndicateString))
                 {
-                    EventLog.Log("Lấy thành công dữ liệu Urisys1100:\n" + _data);
-                    EventLog.Log(ParsingData() ? "Phân tích thành công Urisys1100!" : "Phân tích thất bại Urisys1100!");
+                  //  EventLog.Log("Lấy thành công dữ liệu Urisys1100:\n" + _data);
+                   // EventLog.Log(ParsingData() ? "Phân tích thành công Urisys1100!" : "Phân tích thất bại Urisys1100!");
                     _flag = true;
                     OnReceiveDataComplelted(true);
                 }

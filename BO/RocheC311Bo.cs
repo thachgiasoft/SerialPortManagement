@@ -113,7 +113,7 @@ namespace ComManagement.Bo
                     var records = Regex.Split(patient, @"R\|");
                     foreach (var record in records)
                     {
-                       // var temp = Regex.Replace(record, etb + "FA" + stx + "3", "");
+                        // var temp = Regex.Replace(record, etb + "FA" + stx + "3", "");
                         var frames = record.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
                         var rgx = new Regex(@"^[0-9]*$");
                         if (record.Contains("^&"))
@@ -164,13 +164,16 @@ namespace ComManagement.Bo
         {
             if (input.Contains(etb))
             {
+                var i = 0;
                 while (input.Contains(etb))
                 {
+                    i++;
                     var index = input.IndexOf(etb);
                     var sub1 = input.Substring(0, index);
                     var sub2 = input.Substring(index + 1, input.Length - index - 1);
                     index = sub2.IndexOf(stx);
-                    var sub3 = sub2.Substring(index + 1, sub2.Length - index - 1);
+                    var take = i.ToString().Length + 1;
+                    var sub3 = sub2.Substring(index + take, sub2.Length - index - take);
                     input = sub1 + sub3;
                 }
 
