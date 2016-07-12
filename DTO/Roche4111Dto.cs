@@ -47,6 +47,7 @@ namespace ComManagement.DTO
         /// AFP 1
         /// </summary>
         AFP_1 = 311,
+        TPSA_1 = 321,
         /// <summary>
         /// CA15-3 2
         /// </summary>
@@ -54,6 +55,9 @@ namespace ComManagement.DTO
         /// <summary>
         /// CA125 1
         /// </summary>
-        CA125_1 = 341
+        CA125_1 = 341,
+        CA19_91 = 351,
+        CA72_40 = 360,
+        CYFRA_0 = 370,
     }
 }

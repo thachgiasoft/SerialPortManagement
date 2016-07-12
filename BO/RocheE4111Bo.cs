@@ -112,8 +112,10 @@ namespace ComManagement.Bo
                         var records = Regex.Split(block, @"R\|");
                         foreach (var record in records)
                         {
-                            var frames = record.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
-                            if (record.Contains("^&"))
+                            var tempJoiner = new Regex("(\u0017)\\S+(\u0002)\\d+", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant | RegexOptions.Compiled);
+                           var tempRecord = tempJoiner.Replace(record, string.Empty);
+                           var frames = tempRecord.Split(new[] { '|' }, StringSplitOptions.RemoveEmptyEntries);
+                            if (tempRecord.Contains("^&"))
                             {
                                 item.Name = frames[8] ?? "";
                             }

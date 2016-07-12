@@ -64,3 +64,15 @@ D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.pdb
 D:\Working\Medical\SerialPortManagement\bin\Debug\Newtonsoft.Json.dll
 D:\Working\Medical\SerialPortManagement\bin\Debug\Newtonsoft.Json.xml
 D:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.Form2.resources
+E:\Working\Medical\SerialPortManagement\bin\Debug\ComManagement.exe.config
+E:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.exe
+E:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.pdb
+E:\Working\Medical\SerialPortManagement\bin\Debug\ComManagement.exe
+E:\Working\Medical\SerialPortManagement\bin\Debug\ComManagement.pdb
+E:\Working\Medical\SerialPortManagement\bin\Debug\Newtonsoft.Json.dll
+E:\Working\Medical\SerialPortManagement\bin\Debug\Newtonsoft.Json.xml
+E:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.csprojResolveAssemblyReference.cache
+E:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.Form1.resources
+E:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.Form2.resources
+E:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.Properties.Resources.resources
+E:\Working\Medical\SerialPortManagement\obj\Debug\ComManagement.csproj.GenerateResource.Cache

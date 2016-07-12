@@ -18929,3 +18929,297 @@ Log Entry : 11:23:06 AM Thursday, April 21, 2016
 Log Entry : 11:23:30 AM Thursday, April 21, 2016
   :Phân tích thành công!
 -------------------------------
+
+Log Entry : 11:22:48 AM Tuesday, July 12, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 11:24:53 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+
+
+-------------------------------
+
+Log Entry : 11:24:53 AM Tuesday, July 12, 2016
+  :Ghi ack!
+-------------------------------
+
+Log Entry : 11:27:20 AM Tuesday, July 12, 2016
+  :Mở cổng thất bại
+-------------------------------
+
+Log Entry : 11:27:32 AM Tuesday, July 12, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 11:28:05 AM Tuesday, July 12, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 11:28:17 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+-------------------------------
+
+Log Entry : 11:28:17 AM Tuesday, July 12, 2016
+  :Ghi ack!
+-------------------------------
+
+Log Entry : 11:28:52 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|11H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+-------------------------------
+
+Log Entry : 11:28:52 AM Tuesday, July 12, 2016
+  :Ghi ack!
+-------------------------------
+
+Log Entry : 11:31:02 AM Tuesday, July 12, 2016
+  :Mở cổng thất bại
+-------------------------------
+
+Log Entry : 11:31:06 AM Tuesday, July 12, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 11:31:26 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+P|1
+O|1|QUANG27|1508^0007^2^^S1^SC|^^^311^1\^^^360^1\^^^351^1\^^^301^1\^^^370^1\^^^321^1|R||20160708085118||||N||||1|||||||20160708092513|||F
+R|1|^^^311/1/not|2.18|ng/ml||N||F||bmserv|||E1
+R|2|^^93
+2^360/1/not|0.563|U/ml||N||F||bmserv|||E1
+R|3|^^^351/1/not|19.08|U/ml||N||F||bmserv|||E1
+R|4|^^^301/1/not|       |ng/ml||A||F||bmserv|||E1
+R|5|^^^370/1/not|2.43|ng/ml||N||F||bmserv|||E1
+R|6|^^^321/1/not|2.84|ng/ml||N||F||bmserv|||E1
+L|1|N
+B0
+
+-------------------------------
+
+Log Entry : 11:31:29 AM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 11:34:08 AM Tuesday, July 12, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 11:34:59 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+P|1
+O|1|QUANG27|1508^0007^2^^S1^SC|^^^311^1\^^^360^1\^^^351^1\^^^301^1\^^^370^1\^^^321^1|R||20160708085118||||N||||1|||||||20160708092513|||F
+R|1|^^^311/1/not|2.18|ng/ml||N||F||bmserv|||E1
+R|2|^^93
+2^360/1/not|0.563|U/ml||N||F||bmserv|||E1
+R|3|^^^351/1/not|19.08|U/ml||N||F||bmserv|||E1
+R|4|^^^301/1/not|       |ng/ml||A||F||bmserv|||E1
+R|5|^^^370/1/not|2.43|ng/ml||N||F||bmserv|||E1
+R|6|^^^321/1/not|2.84|ng/ml||N||F||bmserv|||E1
+L|1|N
+B0
+
+-------------------------------
+
+Log Entry : 11:34:59 AM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 11:35:15 AM Tuesday, July 12, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 11:44:10 AM Tuesday, July 12, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 11:44:16 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+P|1
+O|1|QUANG27|1508^0007^2^^S1^SC|^^^311^1\^^^360^1\^^^351^1\^^^301^1\^^^370^1\^^^321^1|R||20160708085118||||N||||1|||||||20160708092513|||F
+R|1|^^^311/1/not|2.18|ng/ml||N||F||bmserv|||E1
+R|2|^^93
+2^360/1/not|0.563|U/ml||N||F||bmserv|||E1
+R|3|^^^351/1/not|19.08|U/ml||N||F||bmserv|||E1
+R|4|^^^301/1/not|       |ng/ml||A||F||bmserv|||E1
+R|5|^^^370/1/not|2.43|ng/ml||N||F||bmserv|||E1
+R|6|^^^321/1/not|2.84|ng/ml||N||F||bmserv|||E1
+L|1|N
+B0
+
+-------------------------------
+
+Log Entry : 11:44:16 AM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 11:44:48 AM Tuesday, July 12, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 11:45:43 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+P|1
+O|1|QUANG27|1508^0007^2^^S1^SC|^^^311^1\^^^360^1\^^^351^1\^^^301^1\^^^370^1\^^^321^1|R||20160708085118||||N||||1|||||||20160708092513|||F
+R|1|^^^311/1/not|2.18|ng/ml||N||F||bmserv|||E1
+R|2|^^93
+2^360/1/not|0.563|U/ml||N||F||bmserv|||E1
+R|3|^^^351/1/not|19.08|U/ml||N||F||bmserv|||E1
+R|4|^^^301/1/not|       |ng/ml||A||F||bmserv|||E1
+R|5|^^^370/1/not|2.43|ng/ml||N||F||bmserv|||E1
+R|6|^^^321/1/not|2.84|ng/ml||N||F||bmserv|||E1
+L|1|N
+B0
+
+-------------------------------
+
+Log Entry : 11:45:43 AM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 11:56:10 AM Tuesday, July 12, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 11:56:15 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+P|1
+O|1|QUANG27|1508^0007^2^^S1^SC|^^^311^1\^^^360^1\^^^351^1\^^^301^1\^^^370^1\^^^321^1|R||20160708085118||||N||||1|||||||20160708092513|||F
+R|1|^^^311/1/not|2.18|ng/ml||N||F||bmserv|||E1
+R|2|^^93
+2^360/1/not|0.563|U/ml||N||F||bmserv|||E1
+R|3|^^^351/1/not|19.08|U/ml||N||F||bmserv|||E1
+R|4|^^^301/1/not|       |ng/ml||A||F||bmserv|||E1
+R|5|^^^370/1/not|2.43|ng/ml||N||F||bmserv|||E1
+R|6|^^^321/1/not|2.84|ng/ml||N||F||bmserv|||E1
+L|1|N
+B0
+
+-------------------------------
+
+Log Entry : 11:56:15 AM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 11:56:35 AM Tuesday, July 12, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 11:57:05 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+P|1
+O|1|QUANG27|1508^0007^2^^S1^SC|^^^311^1\^^^360^1\^^^351^1\^^^301^1\^^^370^1\^^^321^1|R||20160708085118||||N||||1|||||||20160708092513|||F
+R|1|^^^311/1/not|2.18|ng/ml||N||F||bmserv|||E1
+R|2|^^93
+2^360/1/not|0.563|U/ml||N||F||bmserv|||E1
+R|3|^^^351/1/not|19.08|U/ml||N||F||bmserv|||E1
+R|4|^^^301/1/not|       |ng/ml||A||F||bmserv|||E1
+R|5|^^^370/1/not|2.43|ng/ml||N||F||bmserv|||E1
+R|6|^^^321/1/not|2.84|ng/ml||N||F||bmserv|||E1
+L|1|N
+B0
+
+-------------------------------
+
+Log Entry : 11:57:05 AM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 11:58:55 AM Tuesday, July 12, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 11:58:58 AM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^REAL|P|1
+P|1
+O|1|QUANG27|1508^0007^2^^S1^SC|^^^311^1\^^^360^1\^^^351^1\^^^301^1\^^^370^1\^^^321^1|R||20160708085118||||N||||1|||||||20160708092513|||F
+R|1|^^^311/1/not|2.18|ng/ml||N||F||bmserv|||E1
+R|2|^^93
+2^360/1/not|0.563|U/ml||N||F||bmserv|||E1
+R|3|^^^351/1/not|19.08|U/ml||N||F||bmserv|||E1
+R|4|^^^301/1/not|       |ng/ml||A||F||bmserv|||E1
+R|5|^^^370/1/not|2.43|ng/ml||N||F||bmserv|||E1
+R|6|^^^321/1/not|2.84|ng/ml||N||F||bmserv|||E1
+L|1|N
+B0
+
+-------------------------------
+
+Log Entry : 11:58:58 AM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 11:59:02 AM Tuesday, July 12, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 12:00:16 PM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^BATCH|P|1
+P|1
+O|1|TIENG32|1507^0007^1^^S1^SC|^^^311^1\^^^360^1\^^^341^1\^^^351^1\^^^301^1\^^^370^1|R||20160708085015||||N||||1|||||||20160708092004|||F
+R|1|^^^311/1/not|2.76|ng/ml||N||F||bmserv|||E1
+R|2|^65
+2^^360/1/not|0.447|U/ml||N||F||bmserv|||E1
+R|3|^^^341/1/not|12.60|U/ml||N||F||bmserv|||E1
+R|4|^^^351/1/not|9.12|U/ml||N||F||bmserv|||E1
+R|5|^^^301/1/not|0.386|ng/ml||N||F||bmserv|||E1
+R|6|^^^370/1/not|       |ng/ml||A||F||bmserv|||E1
+L|1|N
+BE
+
+-------------------------------
+
+Log Entry : 12:00:16 PM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 12:00:17 PM Tuesday, July 12, 2016
+  :Phân tích thành công!
+-------------------------------
+
+Log Entry : 12:00:39 PM Tuesday, July 12, 2016
+  :Mở cổng thành công
+-------------------------------
+
+Log Entry : 12:00:53 PM Tuesday, July 12, 2016
+  :Lấy thành công dữ liệu:
+1H|\^&|||cobas-e411^1|||||host|RSUPL^BATCH|P|1
+P|1
+O|1|TIENG32|1507^0007^1^^S1^SC|^^^311^1\^^^360^1\^^^341^1\^^^351^1\^^^301^1\^^^370^1|R||20160708085015||||N||||1|||||||20160708092004|||F
+R|1|^^^311/1/not|2.76|ng/ml||N||F||bmserv|||E1
+R|2|^65
+2^^360/1/not|0.447|U/ml||N||F||bmserv|||E1
+R|3|^^^341/1/not|12.60|U/ml||N||F||bmserv|||E1
+R|4|^^^351/1/not|9.12|U/ml||N||F||bmserv|||E1
+R|5|^^^301/1/not|0.386|ng/ml||N||F||bmserv|||E1
+R|6|^^^370/1/not|       |ng/ml||A||F||bmserv|||E1
+L|1|N
+BE
+
+-------------------------------
+
+Log Entry : 12:00:53 PM Tuesday, July 12, 2016
+  :Completed!
+
+-------------------------------
+
+Log Entry : 12:00:53 PM Tuesday, July 12, 2016
+  :Phân tích thành công!
+-------------------------------

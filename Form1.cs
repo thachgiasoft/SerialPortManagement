@@ -18,7 +18,7 @@ namespace ComManagement
             ListPortCom();
         }
 
-        private RocheC311Bo au;
+        private RocheE4111Bo au;
         public void ListPortCom()
         {
 
@@ -45,7 +45,7 @@ namespace ComManagement
                     Dtr = chkDtr.Checked
                 };
                 // khai báo và mở cổng 
-                au = new RocheC311Bo(setting);
+                au = new RocheE4111Bo(setting);
                 au.Open();
                 Log("Mở cổng thành công");
                 btnGet.Enabled = false;
@@ -79,8 +79,8 @@ namespace ComManagement
             }
 
         }
-        public delegate void DelHT(List<RocheC311Dto> data);
-        public void HT(List<RocheC311Dto> data)
+        public delegate void DelHT(List<Roche4111Dto> data);
+        public void HT(List<Roche4111Dto> data)
         {
             if (dataGridView1.InvokeRequired)
             {
